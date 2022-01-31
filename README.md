@@ -71,4 +71,7 @@ Arrays methods
 
 ## OOP
 
-## DOM
+## Manipulating the DOM
+
+### Events
+- click, mouseout, hover
